@@ -1,4 +1,4 @@
-package com.ratanparai.issue.issue;
+package com.ratanparai.milestone;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class IssueApplicationTests {
+public class MilestoneApplicationTests {
 
 	@Test
 	public void contextLoads() {

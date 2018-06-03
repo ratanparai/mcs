@@ -1,4 +1,4 @@
-package com.ratanparai.issue.issue;
+package com.ratanparai.issue;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

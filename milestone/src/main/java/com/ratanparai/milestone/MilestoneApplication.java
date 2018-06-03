@@ -1,12 +1,12 @@
-package com.ratanparai.issue.issue;
+package com.ratanparai.milestone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IssueApplication {
+public class MilestoneApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IssueApplication.class, args);
+		SpringApplication.run(MilestoneApplication.class, args);
 	}
 }

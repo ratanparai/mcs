@@ -1,4 +1,4 @@
-package com.ratanparai.issue.issue;
+package com.ratanparai.issue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

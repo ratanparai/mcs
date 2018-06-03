@@ -3,3 +3,10 @@ services:
   frontend:
     ports:
       - "5100:80"
+  issue:
+    ports:
+      - "5101:8080"
+
+  milestone:
+    ports:
+      - "5102:8080"

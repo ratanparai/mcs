@@ -1,0 +1,5 @@
+version : '3'
+services:
+  frontend:
+    ports:
+      - "5100:80"
